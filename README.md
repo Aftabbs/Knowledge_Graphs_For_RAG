@@ -4,7 +4,7 @@
 
      
 ## Introduction    
-
+      
 This project explores the integration of **Knowledge Graphs** with Retrieval-Augmented Generation (RAG) to enhance the accuracy, relevance, and depth of generative AI systems. Knowledge Graphs structure information into entities (nodes) and relationships (edges), enabling efficient storage, querying, and reasoning. By leveraging Knowledge Graphs in RAG pipelines, the project demonstrates how to retrieve relevant, context-aware information and incorporate it into text generation.
     
 
