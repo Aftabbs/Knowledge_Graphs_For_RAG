@@ -10,7 +10,7 @@ This project explores the integration of **Knowledge Graphs** with Retrieval-Aug
 
 ## Key Areas Explored
 
-### 1. Querying Knowledge Graphs
+### 1. Querying Knowledge Graphs     
 
 Knowledge Graphs can be queried using **Cypher**, a powerful query language for interacting with graph databases such as Neo4j.  
 
